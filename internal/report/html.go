@@ -38,7 +38,7 @@ var (
                         ApiSec:       computeGrade(57.14, 1),
                         AppSec:       computeGrade(60.12, 1),
                         OverallScore: computeGrade(58.63, 1),
-                },
+                }, 
                 {
                         Name:         "ModSecurity PARANOIA=3",
                         ApiSec:       computeGrade(78.57, 1),
